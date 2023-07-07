@@ -1,0 +1,43 @@
+/* Dice Styling */
+
+* {
+    font-family: 'Arial', sans-serif;
+}
+
+.gameContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+    flex-direction: column;
+}
+
+.headingContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+/* Dice Styling */
+
+.diceContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.playerDice {
+    padding: 1rem;
+}
+
+.playerDiceContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.playerNumber {
+    padding: 2rem;
+}
