@@ -10,6 +10,7 @@
     justify-content: center;
     height: 100dvh;
     flex-direction: column;
+    background-color: hsl(0, 0%, 22%);
 }
 
 .headingContainer {
@@ -40,4 +41,9 @@
 
 .playerNumber {
     padding: 2rem;
+    color: white;
+}
+
+.heading {
+    color: white;
 }
